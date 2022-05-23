@@ -29,6 +29,7 @@ namespace 测试用
             _thread = new Thread(UpdatePicture);
             _thread.IsBackground = true;
             _thread.Start();
+
             _camera.StartThread();
 
         }
@@ -52,9 +53,6 @@ namespace 测试用
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int _width = 100;
-            int _height = 90;
-            MessageBox.Show($"{(_width - _height)/4}");
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)

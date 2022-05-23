@@ -41,9 +41,9 @@ namespace 测试多线程
 
         private void button1_Click(object sender, EventArgs e)
         {
-            testFunction1();
-            // Invoke(new Action(testFunction1));
-            // BeginInvoke(new Action(testFunction1), null);
+            //testFunction1();
+            //Invoke(new Action(testFunction1));
+            BeginInvoke(new Action(testFunction1), null);
         }
     }
 }
