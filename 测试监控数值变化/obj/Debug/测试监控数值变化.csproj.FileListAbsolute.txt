@@ -1,8 +1,0 @@
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\obj\Debug\测试监控数值变化.Form1.resources
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\obj\Debug\测试监控数值变化.Properties.Resources.resources
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\obj\Debug\测试监控数值变化.csproj.GenerateResource.Cache
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\bin\Debug\测试监控数值变化.exe.config
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\bin\Debug\测试监控数值变化.exe
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\bin\Debug\测试监控数值变化.pdb
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\obj\Debug\测试监控数值变化.exe
-C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试监控数值变化\obj\Debug\测试监控数值变化.pdb
