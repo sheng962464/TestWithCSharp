@@ -1,0 +1,8 @@
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\bin\Debug\调用文件夹下所有的dll.exe.config
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\bin\Debug\调用文件夹下所有的dll.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\bin\Debug\调用文件夹下所有的dll.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\obj\Debug\调用文件夹下所有的dll.Form1.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\obj\Debug\调用文件夹下所有的dll.Properties.Resources.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\obj\Debug\调用文件夹下所有的dll.csproj.GenerateResource.Cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\obj\Debug\调用文件夹下所有的dll.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\调用文件夹下所有的dll\obj\Debug\调用文件夹下所有的dll.pdb

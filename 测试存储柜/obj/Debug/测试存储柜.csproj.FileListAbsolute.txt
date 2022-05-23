@@ -1,0 +1,13 @@
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\bin\Debug\测试存储柜.exe.config
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\bin\Debug\测试存储柜.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\bin\Debug\测试存储柜.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.ConfigForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.InBoundForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.LogInForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.MainForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.OutBoundForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.Properties.Resources.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.SpotCheckForm.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.csproj.GenerateResource.Cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试存储柜\obj\Debug\测试存储柜.pdb

@@ -1,0 +1,9 @@
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\bin\Debug\测试Halcon关于draw_region的函数.exe.config
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\bin\Debug\测试Halcon关于draw_region的函数.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\bin\Debug\测试Halcon关于draw_region的函数.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\bin\Debug\halcondotnet.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\obj\Debug\测试Halcon关于draw_region的函数.Form1.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\obj\Debug\测试Halcon关于draw_region的函数.Properties.Resources.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\obj\Debug\测试Halcon关于draw_region的函数.csproj.GenerateResource.Cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\obj\Debug\测试Halcon关于draw_region的函数.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon关于draw_region的函数\obj\Debug\测试Halcon关于draw_region的函数.pdb

@@ -1,0 +1,12 @@
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\测试Halcon图片控件.exe.config
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\测试Halcon图片控件.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\测试Halcon图片控件.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\halcondotnet.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\HalconImageWindow.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\bin\Debug\HalconImageWindow.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.csprojResolveAssemblyReference.cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.Form1.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.Properties.Resources.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.csproj.GenerateResource.Cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.exe
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\测试Halcon图片控件\obj\Debug\测试Halcon图片控件.pdb

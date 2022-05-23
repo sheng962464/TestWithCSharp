@@ -1,0 +1,7 @@
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\bin\Debug\HalconImageWindow.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\bin\Debug\HalconImageWindow.pdb
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\bin\Debug\halcondotnet.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\obj\Debug\HalconImageWindow.UserControl1.resources
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\obj\Debug\HalconImageWindow.csproj.GenerateResource.Cache
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\obj\Debug\HalconImageWindow.dll
+C:\Users\ZerosZhang\Documents\VisualStudioCode\测试用\HalconImageWindow\obj\Debug\HalconImageWindow.pdb
